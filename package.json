@@ -1,0 +1,9 @@
+{
+  "name": "essential-threads-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Essential Threads nonprofit website with Stripe Checkout donations",
+  "dependencies": {
+    "stripe": "^16.0.0"
+  }
+}
